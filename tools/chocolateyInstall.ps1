@@ -1,1 +1,1 @@
-Install-ChocolateyPackage 'nasm-2.10.06-installer' 'exe' '/S' 'http://www.nasm.us/pub/nasm/releasebuilds/2.10.06/win32/nasm-2.10.06-installer.exe'
+Install-ChocolateyPackage 'nasm' 'exe' '/S' 'http://www.nasm.us/pub/nasm/releasebuilds/2.12.01/win32/nasm-2.12.01-installer-x86.exe' 'http://www.nasm.us/pub/nasm/releasebuilds/2.12.01/win64/nasm-2.12.01-installer-x64.exe'
