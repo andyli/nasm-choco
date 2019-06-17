@@ -1,5 +1,5 @@
 Install-ChocolateyPackage 'nasm' 'exe' '/S' `
- 'http://www.nasm.us/pub/nasm/releasebuilds/2.14/win32/nasm-2.14-installer-x86.exe' `
- 'http://www.nasm.us/pub/nasm/releasebuilds/2.14/win64/nasm-2.14-installer-x64.exe' `
- -Checksum   '9486f44e1fe884675f0aac979975d43debab581a33714b99ccca81bdc974b3e5' -ChecksumType   'sha256' `
- -Checksum64 'a50039da38272b129c222e649fccba41771865592b538763b656993ea192876a' -ChecksumType64 'sha256'
+ 'https://www.nasm.us/pub/nasm/releasebuilds/2.14.02/win32/nasm-2.14.02-installer-x86.exe' `
+ 'https://www.nasm.us/pub/nasm/releasebuilds/2.14.02/win64/nasm-2.14.02-installer-x64.exe' `
+ -Checksum   '9e994909e19aec6df83265673541f426d1a80246b996f2043c5d5663bacf4306' -ChecksumType   'sha256' `
+ -Checksum64 '14527316cc1b7522bf0c59c328eb9ba16c172d6386feff3867cba9cf23b7db5b' -ChecksumType64 'sha256'
